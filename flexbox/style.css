@@ -1,0 +1,7 @@
+.flex-container{
+    display:flex;
+    justify-content:end;
+    border:1px black solid;
+    border-radius:5px;
+    width: 200px;
+}
